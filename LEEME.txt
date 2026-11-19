@@ -1,0 +1,19 @@
+FERFOOTBALL V2
+
+Archivos:
+- index.html: estructura y secciones de la web.
+- styles.css: diseño adaptable a móvil y ordenador.
+- script.js: menú móvil y selector de Primera/Segunda.
+
+ACTUALIDAD Y DATOS:
+Esta versión enlaza a las fuentes oficiales de LALIGA, RFEF y los clubes.
+No inventa marcadores, clasificaciones ni fichajes. Para mostrar datos en directo dentro de la web
+habrá que conectar más adelante una API de fútbol autorizada.
+
+CÓMO ACTUALIZAR GITHUB:
+1. Descomprime este ZIP.
+2. Entra en tu repositorio de GitHub.
+3. Abre cada archivo actual (index.html, styles.css y script.js) y sustitúyelo por el nuevo,
+   o elimina los archivos antiguos y sube los tres nuevos a la raíz del repositorio.
+4. Confirma los cambios en la rama principal.
+5. GitHub Pages se actualizará automáticamente al terminar la publicación.
